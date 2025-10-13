@@ -58,20 +58,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=NikhilJadhav0&theme=tokyonight&no-frame=true&margin-w=15&row=2" />
 </p>
 
-
-
----
-
-## ✍️ Dev Quote  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote" />
-</p>
-
 ---
 
 ## 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?stroke=00BFFF" alt="sky blue snake" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?stroke=00BFFF" alt="blue snake" />
 </p>
 
 ---
@@ -81,10 +72,3 @@
 - Master AI + ML for real-world applications  
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=NikhilJadhav&icon=5&color=6" alt="Profile Views"/>
-</p>
-
----
-
