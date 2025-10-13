@@ -38,17 +38,10 @@
 | [**Booking Engine**](https://github.com/NikhilJadhav0/Booking_Engine) | Full-stack resort booking platform built with Next.js, Tailwind, and PHP + MySQL backend for seamless reservations. | Next.js, Tailwind CSS, PHP, MySQL |
 
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikhilJadhav&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="165px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilJadhav&theme=tokyonight&hide_border=false" height="165px"/>
-</p>
 
 ---
 
-## 🚀 Coding Stats
+## 🚀 Coding Stats & 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilJadhav0&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
