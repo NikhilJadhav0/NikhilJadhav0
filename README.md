@@ -16,6 +16,7 @@
 
   <a href="https://www.linkedin.com/in/nikhil-jadhav-213275240/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45px"/></a>
   <a href="mailto:nikhiljadhav2218@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://nikhiljadhav0.github.io/NikhilJadhav0.github.io-portfolio/" target="_blank"><img src="https://skillicons.dev/icons?i=devto" width="45px"/></a>
 
 
 </p>
