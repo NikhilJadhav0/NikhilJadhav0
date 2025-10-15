@@ -44,7 +44,7 @@
 
 ## 🚀 Coding Stats & 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilJadhav0&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilJadhav0&theme=react&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
