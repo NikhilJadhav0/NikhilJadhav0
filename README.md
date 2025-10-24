@@ -73,3 +73,8 @@
 - Master AI + ML for real-world applications  
 
 ---
+
+## 🧩 Profile Badge
+- ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue)
+- ![GitHub followers](https://img.shields.io/github/followers/NikhilJadhav0?style=social)
+- ![GitHub stars](https://img.shields.io/github/stars/NikhilJadhav0?affiliations=OWNER%2CCOLLABORATOR&style=social)
